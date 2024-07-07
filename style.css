@@ -1,0 +1,16 @@
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+@media(min-width: 768px){
+    .map{
+         margin-left: 100px;
+    }
+}
+
+
+body{
+    padding-top: 60px;
+}
